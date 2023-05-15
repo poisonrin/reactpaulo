@@ -1,8 +1,8 @@
-function texto(){
+function Texto(){
     return(
         <div>
-            <h1>Texto do componente!</h1>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
         </div>
     )
 }
-export default texto
+export default Texto
