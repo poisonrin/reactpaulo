@@ -1,4 +1,5 @@
 import Texto from './componentes/texto';
+import Paragrafo from  './componentes/paragrafo';
 function App(){
     return(
         <div>
